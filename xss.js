@@ -1,1 +1,1 @@
-alert('XSS');
+&#97;lert('l33t');
